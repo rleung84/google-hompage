@@ -1,0 +1,41 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+li {
+    display: inline;
+}
+button{
+    border-radius: 2px;
+}
+.sign{
+background-color: #1775cc;
+border: none;
+color: white;
+padding: 4px 15px;
+border-radius: 2px;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+form{
+    text-align: center;
+}
+
+input{
+    width: 50%;
+    border-radius: 10px;
+    padding-left: 55px;
+    width: 300px;
+    border: 1px solid #f5f5f5;
+    font-size: 13px;
+    color: gray;
+    background-image: url('https://cdn1.iconfinder.com/data/icons/hawcons/32/698956-icon-111-search-512.png');
+    background-repeat: no-repeat;
+    background-position: left center;
+    outline: 0;
+    
+}
